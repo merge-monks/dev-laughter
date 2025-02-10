@@ -25,7 +25,7 @@ We believe that **coding should be fun, open, and impactful.** Whether you're a 
 
 ### 🔄 **2. Fork & Clone**  
 ```bash
-git clone https://github.com/MergeMonks/repo-name.git
+git clone https://github.com/merge-monks/repo-name.git
 cd repo-name
 ```
 🔹 Make a copy of the repo to work on it locally.  
