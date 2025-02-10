@@ -35,7 +35,6 @@ cd repo-name
 git checkout -b feature-name
 ```
 🔹 Add your code, fix a bug, or enhance documentation.  
-
 ### 📌 **4. Commit & Push**  
 ```bash
 git add .
@@ -43,7 +42,6 @@ git commit -m "Added a cool feature 🎉"
 git push origin feature-name
 ```
 🔹 Describe your changes and push them.  
-
 ### 🔥 **5. Open a Pull Request (PR)**  
 🔹 Go to GitHub and create a **Pull Request (PR)**.  
 🔹 Wait for reviews, discuss changes, and get your code merged!  
@@ -114,3 +112,4 @@ Feel free to use, modify, and distribute!
 Fork a repo, make changes, and send a PR! Let’s build something amazing together!  
 
 💡 **"Merge your skills, become a Monk of Code!"** 🧘‍♂️💻  
+
