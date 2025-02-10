@@ -1,19 +1,19 @@
-# 🚀 MergeMonks | Code, Collaborate, Create  
+# 🚀 merge-monks | Code, Collaborate, Create  
 
-Welcome to **MergeMonks** – where developers, engineers, and tech enthusiasts come together to **collaborate, innovate, and merge great ideas into reality!** 🧘‍♂️💻  
+Welcome to **merge-monks** – where developers, engineers, and tech enthusiasts come together to **collaborate, innovate, and merge great ideas into reality!** 🧘‍♂️💻  
 
-We believe that **coding should be fun, open, and impactful.** Whether you're a seasoned developer, a newbie coder, or just someone passionate about tech, MergeMonks is the place for you!  
+We believe that **coding should be fun, open, and impactful.** Whether you're a seasoned developer, a newbie coder, or just someone passionate about tech, merge-monks is the place for you!  
 
 ---
 
-## 🌟 Why MergeMonks?  
+## 🌟 Why merge-monks?  
 
 🔹 **Open Source & Collaboration** – Work with developers worldwide.  
 🔹 **Fun & Innovation** – Experiment with new ideas and have fun while coding.  
 🔹 **Learning & Growth** – Gain experience, learn new skills, and contribute to real projects.  
 🔹 **Automation & Efficiency** – Build smart tools that save time and effort.  
 
-> 🏆 **At MergeMonks, we turn coding into an adventure!**  
+> 🏆 **At merge-monks, we turn coding into an adventure!**  
 
 ---
 
@@ -64,7 +64,7 @@ git push origin feature-name
 
 ## 🚀 How to Start?  
 
-1️⃣ **Join Our GitHub Organization** – [Click Here](https://github.com/MergeMonks)  
+1️⃣ **Join Our GitHub Organization** – [Click Here](https://github.com/merge-monks)  
 2️⃣ **Follow the Contribution Guide** (Check the repository README)  
 3️⃣ **Pick a Task & Start Contributing!**  
 
@@ -79,7 +79,7 @@ git push origin feature-name
 🎨 **Memes & Creativity** – Share fun commits, ASCII art, and jokes.  
 📢 **Showcase Your Work** – Get recognized for your contributions!  
 
-> "MergeMonks is not just coding—it's an experience!" 🚀  
+> "merge-monks is not just coding—it's an experience!" 🚀  
 
 ---
 
@@ -103,8 +103,8 @@ Feel free to use, modify, and distribute!
 
 ## 📢 Stay Connected  
 
-📌 **GitHub** – [MergeMonks](https://github.com/MergeMonks)  
-📌 **Twitter** – [@MergeMonks](https://twitter.com/MergeMonks)  
+📌 **GitHub** – [merge-monks](https://github.com/merge-monks)  
+📌 **Twitter** – [@merge-monks](https://twitter.com/merge-monks)  
 📌 **Discord** – [Join the Community](https://discord.gg/merge-monks)  
 📌 **Website** – [Coming Soon 🚀]  
 
