@@ -114,9 +114,3 @@ Feel free to use, modify, and distribute!
 Fork a repo, make changes, and send a PR! Let’s build something amazing together!  
 
 💡 **"Merge your skills, become a Monk of Code!"** 🧘‍♂️💻  
-```
-✅ **Add a `LICENSE` file (MIT License)**  
-✅ **Create issues & tasks for contributors**  
-✅ **Share the link with the community!** 🚀  
-
-This README is **professional, fun, and informative** – perfect for attracting contributors and growing your GitHub organization! Let me know if you need any changes. 😃🔥
